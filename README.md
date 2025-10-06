@@ -13,3 +13,4 @@ I faced a big challenge installing oracle 21c which was very difficult setting u
 
 ## ADDITION:
 The upper 3 images were from VSCODE, and the below image is from SQL DEVELOPER.
+![](https://github.com/SHANIA-K/PLSQL-ORACLE-ISARO-SHANIA-IDA-27970/blob/main/shania%20pdb%20delete.png?raw=true)
